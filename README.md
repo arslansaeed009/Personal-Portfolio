@@ -1,5 +1,5 @@
 # Personal-Portfolio
-A responsive personal portfolio website built with HTML, CSS, and Bootstrap, showcasing my skills, projects, and experience as a frontend developer.
+A responsive personal portfolio website built with HTML, CSS, JavaScript, and Bootstrap, showcasing my skills, projects, and experience as a frontend developer.
 ## Features
 - **Responsive Design:** The portfolio is fully responsive, providing a great user experience on all devices, from desktops to mobile phones.
 - **Clean Layout:** A clean and modern layout to highlight content effectively.
@@ -11,6 +11,7 @@ A responsive personal portfolio website built with HTML, CSS, and Bootstrap, sho
 ## Technologies Used
 - **HTML5:** For structuring the content.
 - **CSS3:** For styling and enhancing the visual appeal.
+- **JavaScript:** For interactivity and dynamic behavior.
 - **Bootstrap:** For responsive design and pre-built components.
 ## Getting Started
 ## Prerequisites
